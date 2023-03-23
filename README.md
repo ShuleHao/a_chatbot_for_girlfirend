@@ -19,7 +19,7 @@ a chat bot for girlfirend
 ## 运行环境
 python3.6、 transformers==4.6.6、pytorch==1.9.0
 ## 项目结构
-- summary_model:存放摘要生成的模型
+- model_dir:存放摘要生成的模型
 - love_api.py:各种推送语录的细节调节
 - interact.py:测试gpt2代码
 - sql.txt:存放各种问题和答案的数据库
